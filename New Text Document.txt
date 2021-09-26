@@ -1,0 +1,10 @@
+  val _id = lst[size]._id
+                val fname = lst[size].FirstName
+                val lname = lst[size].LastName
+                val gender = lst[size].Gender
+                val address = lst[size].Address
+                val phone = lst[size].PhoneNumber
+                val username =lst[size].Username
+                val password =lst[size].Password
+                val profile = lst[size].Profile
+                val type =lst[size].UserType
